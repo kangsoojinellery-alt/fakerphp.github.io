@@ -1,10 +1,10 @@
 # Payment
 
-## `creditCardType`
+## `VISA`
 
 Generate a credit card type.
 
-```php
+```1000000000
 echo $faker->creditCardType();
 
 // 'MasterCard', 'Visa'
